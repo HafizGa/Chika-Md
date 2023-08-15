@@ -1,6 +1,6 @@
 /*
-› Create By @AzharXD:)
-› Base Ori @Muhammad Saddam
+› Create By @Hafiz Gaming
+› Base Ori @Hafiz
 › Kalau mau tambahin fitur di index.js
 › Edit text menu di file language › help.js
 */
